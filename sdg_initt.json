@@ -1,0 +1,4271 @@
+{
+    "nodes": [
+        {
+            "id": "1",
+            "type": "Goal",
+            "action": "No Poverty",
+            "description": "End poverty in all its forms everywhere",
+            "image": "https://aviationbenefits.org/media/166138/nopoverty.png"
+        },
+        {
+            "id": "2",
+            "type": "Goal",
+            "action": "Zero Hunger",
+            "description": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+            "image": "https://aviationbenefits.org/media/166123/zerohunger.png"
+        },
+        {
+            "id": "3",
+            "type": "Goal",
+            "label":  "Goal 3",
+            "action": "Good Health & Well-being",
+            "description": "Ensure healthy lives and promote well -being for all at all ages",
+            "image": "https://aviationbenefits.org/media/166124/goodhealthandwellbeing.png"
+        },
+        {
+            "id": "4",
+            "type": "Goal",
+            "label":  "Goal 4",
+            "action": "Quality Education",
+            "description": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+            "image": "https://aviationbenefits.org/media/166125/qualityeducation.png"
+        },
+        {
+            "id": "5",
+            "type": "Goal",
+            "label":  "Goal 5",
+            "action": "Gender Equality",
+            "description": "Achieve gender equality and empower all women and girls",
+            "image": "https://aviationbenefits.org/media/166126/genderequality.png"
+        },
+        {
+            "id": "6",
+            "type": "Goal",
+            "label":  "Goal 6",
+            "action": "Clean Water & Sanitation",
+            "description": "Ensure availability and sustainable management of water and sanitation for all",
+            "image": "https://aviationbenefits.org/media/166127/freshwater.png"
+        },
+        {
+            "id": "7",
+            "type": "Goal",
+            "label":  "Goal 7",
+            "action": "Affordable & Clean Energy",
+            "description": "Ensure access to affordable, reliable, sustainable and modern energy for all",
+            "image": "https://aviationbenefits.org/media/166128/renewableenergy.png"
+        },
+        {
+            "id": "8",
+            "type": "Goal",
+            "label":  "Goal 8",
+            "action": "Decent Work & Economic Growth",
+            "description": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+            "image": "https://aviationbenefits.org/media/166129/decentworkandeconomicgrowth.png"
+        },
+        {
+            "id": "9",
+            "type": "Goal",
+            "label":  "Goal 9",
+            "action": "Industry, Innovation & Infrastructure",
+            "description": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+            "image": "https://aviationbenefits.org/media/166130/industryinnovationandinfrastructure.png"
+        },
+        {
+            "id": "10",
+            "type": "Goal",
+            "label":  "Goal 10",
+            "action": "Reduced Inequalities",
+            "description": "Reduce inequality within and among countries",
+            "image": "https://aviationbenefits.org/media/166131/reducedinequalities.png"
+        },
+        {
+            "id": "11",
+            "type": "Goal",
+            "label":  "Goal 11",
+            "action": "Sustainable Cities & Communities",
+            "description": "Make cities and human settlements inclusive, safe, resilient and sustainable",
+            "size": 40,
+            "link":"https://sdgs.un.org/fr/goals/goal11",
+            "shape": "circularImage",
+            "image": "https://aviationbenefits.org/media/166132/sustainablecitiesandcommunities.png"
+        },
+        {
+            "id": "12",
+            "type": "Goal",
+            "label":  "Goal 12",
+            "action": "Responsible Consumption & Production",
+            "description": "Ensure sustainable consumption and production patterns",
+            "image": "https://aviationbenefits.org/media/166133/responsibleconsumptionandproduction.png"
+        },
+        {
+            "id": "13",
+            "type": "Goal",
+            "label":  "Goal 13",
+            "action": "Climate Action",
+            "description": "Take urgent action to combat climate change and its impacts",
+            "image": "https://aviationbenefits.org/media/166134/climateaction.png"
+        },
+        {
+            "id": "14",
+            "type": "Goal",
+            "label":  "Goal 14",
+            "action": "Life Below Water",
+            "description": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
+            "image": "https://aviationbenefits.org/media/166135/lifebelowwater.png"
+        },
+        {
+            "id": "15",
+            "type": "Goal",
+            "label":  "Goal 15",
+            "action": "Life on Land",
+            "description": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+            "image": "https://aviationbenefits.org/media/166136/lifeonland.png"
+        },
+        {
+            "id": "16",
+            "type": "Goal",
+            "label":  "Goal 16",
+            "action": "Peace, Justice & Strong Institutions",
+            "description": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+            "image": "https://aviationbenefits.org/media/166137/peacejustice.png"
+        },
+        {
+            "id": "17",
+            "type": "Goal",
+            "label":  "Goal 17",
+            "action": "Partnerships for the Goals",
+            "description": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+            "image": "https://aviationbenefits.org/media/166139/partnershipsforthegoals.png"
+        },
+        {
+            "id": "1.1",
+            "type": "Target",
+            "label": "Target 1.1",
+            "description": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $ 1.25 a day"
+        },
+        {
+            "id": "1.2",
+            "type": "Target",
+            "label": "Target 1.2",
+            "description": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+        },
+        {
+            "id": "1.3",
+            "type": "Target",
+            "label": "Target 1.3",
+            "description": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+        },
+        {
+            "id": "1.4",
+            "type": "Target",
+            "label": "Target 1.4",
+            "description": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural r esources, appropriate new technology and financial services, including microfinance"
+        },
+        {
+            "id": "1.5",
+            "type": "Target",
+            "label": "Target 1.5",
+            "description": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate -related extreme events and other economic, social and environmental shocks and disasters"
+        },
+        {
+            "id": "2.2",
+            "type": "Target",
+            "label": "Target 2.2",
+            "description": "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional need s of adolescent girls, pregnant and lactating women and older persons"
+        },
+        {
+            "id": "2.3",
+            "type": "Target",
+            "label": "Target 2.3",
+            "description": "By 2030, double the agricultural productivity and incomes of small -scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secur e and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non -farm employment"
+        },
+        {
+            "id": "2.4",
+            "type": "Target",
+            "label": "Target 2.4",
+            "description": "By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capaci ty for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality"
+        },
+        {
+            "id": "3.1",
+            "type": "Target",
+            "label": "Target 3.1",
+            "description": "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births"
+        },
+        {
+            "id": "3.2",
+            "type": "Target",
+            "label": "Target 3.2",
+            "description": "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under -5 mortality to at least as low as 25 per 1,000 live births"
+        },
+        {
+            "id": "3.3",
+            "type": "Target",
+            "label": "Target 3.3",
+            "description": "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water -borne diseases and other comm unicable diseases"
+        },
+        {
+            "id": "3.4",
+            "type": "Target",
+            "label": "Target 3.4",
+            "description": "By 2030, reduce by one third premature mortality from non -communicable diseases through prevention and treatment and promote mental health and well -being"
+        },
+        {
+            "id": "3.5",
+            "type": "Target",
+            "label": "Target 3.5",
+            "description": "Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol"
+        },
+        {
+            "id": "3.7",
+            "type": "Target",
+            "label": "Target 3.7",
+            "description": "By 2030, ensure universal access to sexual and reproductive health -care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes"
+        },
+        {
+            "id": "3.8",
+            "type": "Target",
+            "label": "Target 3.8",
+            "description": "Achieve universal health coverage, including financial risk protection, access to quality essential health -care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
+        },
+        {
+            "id": "3.9",
+            "type": "Target",
+            "label": "Target 3.9",
+            "description": "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+        },
+        {
+            "id": "4.2",
+            "type": "Target",
+            "label": "Target 4.2",
+            "description": "By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre -primary education so that they are ready for primary education"
+        },
+        {
+            "id": "4.3",
+            "type": "Target",
+            "label": "Target 4.3",
+            "description": "By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university"
+        },
+        {
+            "id": "4.6",
+            "type": "Target",
+            "label": "Target 4.6",
+            "description": "By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+        },
+        {
+            "id": "5.2",
+            "type": "Target",
+            "label": "Target 5.2",
+            "description": "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation"
+        },
+        {
+            "id": "5.3",
+            "type": "Target",
+            "label": "Target 5.3",
+            "description": "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation"
+        },
+        {
+            "id": "5.5",
+            "type": "Target",
+            "label": "Target 5.5",
+            "description": "Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision -making in political, economic and public life"
+        },
+        {
+            "id": "6.1",
+            "type": "Target",
+            "label": "Target 6.1",
+            "description": "By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+        },
+        {
+            "id": "6.3",
+            "type": "Target",
+            "label": "Target 6.3",
+            "description": "By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recyclin g and safe reuse globally"
+        },
+        {
+            "id": "6.4",
+            "type": "Target",
+            "label": "Target 6.4",
+            "description": "By 2030, substantially increase water -use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+        },
+        {
+            "id": "6.5",
+            "type": "Target",
+            "label": "Target 6.5",
+            "description": "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate"
+        },
+        {
+            "id": "6.6",
+            "type": "Target",
+            "label": "Target 6.6",
+            "description": "By 2020, protect and restore water -related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes"
+        },
+        {
+            "id": "7.1",
+            "type": "Target",
+            "label": "Target 7.1",
+            "description": "By 2030, ensure universal access to affordable, reliable and modern energy services"
+        },
+        {
+            "id": "7.2",
+            "type": "Target",
+            "label": "Target 7.2",
+            "description": "By 2030, increase substantially the share of renewable energy in the global energy mix"
+        },
+        {
+            "id": "7.3",
+            "type": "Target",
+            "label": "Target 7.3",
+            "description": "By 2030, double the global rate of improvement in energy efficiency"
+        },
+        {
+            "id": "8.1",
+            "type": "Target",
+            "label": "Target 8.1",
+            "description": "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries"
+        },
+        {
+            "id": "8.2",
+            "type": "Target",
+            "label": "Target 8.2",
+            "description": "Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high value added and labour -intensive sectors"
+        },
+        {
+            "id": "8.3",
+            "type": "Target",
+            "label": "Target 8.3",
+            "description": "Promote development -oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro -, small - and medium -sized enterprises, including through access to financial services"
+        },
+        {
+            "id": "8.4",
+            "type": "Target",
+            "label": "Target 8.4",
+            "description": "Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10 -Year Framework of Programmes on Sustainable Consumption and Pr oduction, with developed countries taking the lead"
+        },
+        {
+            "id": "8.5",
+            "type": "Target",
+            "label": "Target 8.5",
+            "description": "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+        },
+        {
+            "id": "8.6",
+            "type": "Target",
+            "label": "Target 8.6",
+            "description": "By 2020, substantially reduce the proportion of youth not in employment, education or training"
+        },
+        {
+            "id": "8.7",
+            "type": "Target",
+            "label": "Target 8.7",
+            "description": "Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms"
+        },
+        {
+            "id": "8.8",
+            "type": "Target",
+            "label": "Target 8.8",
+            "description": "Protect labour rights and promote safe and secure working environments for all workers, including migr ant workers, in particular women migrants, and those in precarious employment"
+        },
+        {
+            "id": "9.1",
+            "type": "Target",
+            "label": "Target 9.1",
+            "description": "Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
+        },
+        {
+            "id": "9.2",
+            "type": "Target",
+            "label": "Target 9.2",
+            "description": "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries"
+        },
+        {
+            "id": "9.3",
+            "type": "Target",
+            "label": "Target 9.3",
+            "description": "Increase the access of small -scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integrati on into value chains and markets"
+        },
+        {
+            "id": "9.5",
+            "type": "Target",
+            "label": "Target 9.5",
+            "description": "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countrie s, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending"
+        },
+        {
+            "id": "10.4",
+            "type": "Target",
+            "label": "Target 10.4",
+            "description": "Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality"
+        },
+        {
+            "id": "10.7",
+            "type": "Target",
+            "label": "Target 10.7",
+            "description": "Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well -managed migration policies"
+        },
+        {
+            "id": "11.1",
+            "type": "Target",
+            "label": "Target 11.1",
+            "description": "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums"
+        },
+        {
+            "id": "11.2",
+            "type": "Target",
+            "label": "Target 11.2",
+            "description": "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons"
+        },
+        {
+            "id": "11.3",
+            "type": "Target",
+            "label": "Target 11.3",
+            "description": "By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries"
+        },
+        {
+            "id": "11.4",
+            "type": "Target",
+            "label": "Target 11.4",
+            "description": "Strengthen efforts to protect and safeguard the world’s cultural and natural heritage"
+        },
+        {
+            "id": "11.6",
+            "type": "Target",
+            "label": "Target 11.6",
+            "description": "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+        },
+        {
+            "id": "11.7",
+            "type": "Target",
+            "label": "Target 11.7",
+            "description": "By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities"
+        },
+        {
+            "id": "12.2",
+            "type": "Target",
+            "label": "Target 12.2",
+            "description": "By 2030, achieve the sustainable management and efficient use of natural resources"
+        },
+        {
+            "id": "12.4",
+            "type": "Target",
+            "label": "Target 12.4",
+            "description": "By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment"
+        },
+        {
+            "id": "12.7",
+            "type": "Target",
+            "label": "Target 12.7",
+            "description": "Promote public procurement practices that are sustainable, in accordance with national policies and priorities"
+        },
+        {
+            "id": "12.8",
+            "type": "Target",
+            "label": "Target 12.8",
+            "description": "By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature"
+        },
+        {
+            "id": "13.1",
+            "type": "Target",
+            "label": "Target 13.1",
+            "description": "Strengthen resilience and adaptive capacity to climate -related hazards and natural disasters in all countries"
+        },
+        {
+            "id": "13.2",
+            "type": "Target",
+            "label": "Target 13.2",
+            "description": "Integrate climate change measures into national policies, strategies and planning"
+        },
+        {
+            "id": "13.3",
+            "type": "Target",
+            "label": "Target 13.3",
+            "description": "Improve education, awareness -raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning"
+        },
+        {
+            "id": "14.1",
+            "type": "Target",
+            "label": "Target 14.1",
+            "description": "By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land - based activities, including marine debris and nutrient pollution"
+        },
+        {
+            "id": "14.2",
+            "type": "Target",
+            "label": "Target 14.2",
+            "description": "By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans"
+        },
+        {
+            "id": "14.3",
+            "type": "Target",
+            "label": "Target 14.3",
+            "description": "Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels"
+        },
+        {
+            "id": "14.5",
+            "type": "Target",
+            "label": "Target 14.5",
+            "description": "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information"
+        },
+        {
+            "id": "14.6",
+            "type": "Target",
+            "label": "Target 14.6",
+            "description": "By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation"
+        },
+        {
+            "id": "14.7",
+            "type": "Target",
+            "label": "Target 14.7",
+            "description": "By 2030, increase the economic benefits to Small Island Developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism"
+        },
+        {
+            "id": "15.1",
+            "type": "Target",
+            "label": "Target 15.1",
+            "description": "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements"
+        },
+        {
+            "id": "15.2",
+            "type": "Target",
+            "label": "Target 15.2",
+            "description": "By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally"
+        },
+        {
+            "id": "15.3",
+            "type": "Target",
+            "label": "Target 15.3",
+            "description": "By 2030, combat desertification, restore degraded land and soil, including land affected by desertifi cation, drought and floods, and strive to achieve a land degradation -neutral world"
+        },
+        {
+            "id": "15.4",
+            "type": "Target",
+            "label": "Target 15.4",
+            "description": "By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to en hance their capacity to provide benefits that are essential for sustainable development"
+        },
+        {
+            "id": "15.5",
+            "type": "Target",
+            "label": "Target 15.5",
+            "description": "Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species"
+        },
+        {
+            "id": "15.6",
+            "type": "Target",
+            "label": "Target 15.6",
+            "description": "Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed"
+        },
+        {
+            "id": "15.7",
+            "type": "Target",
+            "label": "Target 15.7",
+            "description": "Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products"
+        },
+        {
+            "id": "15.9",
+            "type": "Target",
+            "label": "Target 15.9",
+            "description": "By 2020, integrate e cosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts"
+        },
+        {
+            "id": "16.1",
+            "type": "Target",
+            "label": "Target 16.1",
+            "description": "Significantly reduce all forms of violence and related death rates everywhere"
+        },
+        {
+            "id": "16.3",
+            "type": "Target",
+            "label": "Target 16.3",
+            "description": "Promote the rule of law at the national and international levels and ensure equal access to justice for all"
+        },
+        {
+            "id": "16.4",
+            "type": "Target",
+            "label": "Target 16.4",
+            "description": "By 2030, significantly reduce i llicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime"
+        },
+        {
+            "id": "16.5",
+            "type": "Target",
+            "label": "Target 16.5",
+            "description": "Substantially reduce corruption and bribery in all their forms"
+        },
+        {
+            "id": "16.6",
+            "type": "Target",
+            "label": "Target 16.6",
+            "description": "Develop effective, accountable and transparent institutions at all levels"
+        },
+        {
+            "id": "16.7",
+            "type": "Target",
+            "label": "Target 16.7",
+            "description": "Ensure responsive, inclusive, p articipatory and representative decision -making at all levels"
+        },
+        {
+            "id": "16.9",
+            "type": "Target",
+            "label": "Target 16.9",
+            "description": "By 2030, provide legal identity for all, including birth registration"
+        },
+        {
+            "id": "17.2",
+            "type": "Target",
+            "label": "Target 17.2",
+            "description": "Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to l east developed countries"
+        },
+        {
+            "id": "17.3",
+            "type": "Target",
+            "label": "Target 17.3",
+            "description": "Mobilize additional financial resources for developing countries from multiple sources"
+        },
+        {
+            "id": "17.4",
+            "type": "Target",
+            "label": "Target 17.4",
+            "description": "Assist developing countries in attaining long -term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor co untries to reduce debt distress"
+        },
+        {
+            "id": "17.5",
+            "type": "Target",
+            "label": "Target 17.5",
+            "description": "Adopt and implement investment promotion regimes for least developed countries"
+        },
+        {
+            "id": "17.6",
+            "type": "Target",
+            "label": "Target 17.6",
+            "description": "Enhance North -South, South -South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge -sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism"
+        },
+        {
+            "id": "17.7",
+            "type": "Target",
+            "label": "Target 17.7",
+            "description": "Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed"
+        },
+        {
+            "id": "17.8",
+            "type": "Target",
+            "label": "Target 17.8",
+            "description": "Fully operationalize the technology bank and science, technology and innovation capacity - building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology"
+        },
+        {
+            "id": "17.9",
+            "type": "Target",
+            "label": "Target 17.9",
+            "description": "Enhance international support for implementing effective and targeted capacity -building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North -South, South -South and triangular cooperation"
+        },
+        {
+            "id": "17.11",
+            "type": "Target",
+            "label": "Target 17.11",
+            "description": "Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020"
+        },
+        {
+            "id": "17.16",
+            "type": "Target",
+            "label": "Target 17.16",
+            "description": "Enhance the Global Partnership for Sustainable Development, complemented by multi - stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to s upport the achievement of the Sustainable Development Goals in all countries, in particular developing countries"
+        },
+        {
+            "id": "17.18",
+            "type": "Target",
+            "label": "Target 17.18",
+            "description": "By 2020, enhance capacity -building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high - quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts"
+        },
+        {
+            "id": "17.19",
+            "type": "Target",
+            "label": "Target 17.19",
+            "description": "By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity -building in develo ping countries"
+        },
+        {
+            "id": "2.1",
+            "type": "Target",
+            "label": "Target 2.1",
+            "description": "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round"
+        },
+        {
+            "id": "16.2",
+            "type": "Target",
+            "label": "Target 16.2",
+            "description": "End abuse, exploitation, trafficking and all forms of violence against and torture of children"
+        },
+        {
+            "id": "5.4",
+            "type": "Target",
+            "label": "Target 5.4",
+            "description": "Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate"
+        },
+        {
+            "id": "5.6",
+            "type": "Target",
+            "label": "Target 5.6",
+            "description": "Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences"
+        },
+        {
+            "id": "5.1",
+            "type": "Target",
+            "label": "Target 5.1",
+            "description": "End all forms of discrimination against all women and girls everywhere"
+        },
+        {
+            "id": "17.12",
+            "type": "Target",
+            "label": "Target 17.12",
+            "description": "Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access"
+        },
+        {
+            "id": "11.5",
+            "type": "Target",
+            "label": "Target 11.5",
+            "description": "By 2030, significantly reduce the number of deaths and the number of people affected by disasters and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations"
+        },
+        {
+            "id": "8.9",
+            "type": "Target",
+            "label": "Target 8.9",
+            "description": "By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products"
+        },
+        {
+            "id": "4.4",
+            "type": "Target",
+            "label": "Target 4.4",
+            "description": "By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+        },
+        {
+            "id": "10.1",
+            "type": "Target",
+            "label": "Target 10.1",
+            "description": "By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
+        },
+        {
+            "id": "17.1",
+            "type": "Target",
+            "label": "Target 17.1",
+            "description": "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection"
+        },
+        {
+            "id": "16.8",
+            "type": "Target",
+            "label": "Target 16.8",
+            "description": "Broaden and strengthen the participation of developing countries in the institutions of global governance"
+        },
+        {
+            "id": "2.5",
+            "type": "Target",
+            "label": "Target 2.5",
+            "description": "By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed"
+        },
+        {
+            "id": "14.4",
+            "type": "Target",
+            "label": "Target 14.4",
+            "description": "By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics"
+        },
+        {
+            "id": "17.13",
+            "type": "Target",
+            "label": "Target 17.13",
+            "description": "Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+        },
+        {
+            "id": "12.6",
+            "type": "Target",
+            "label": "Target 12.6",
+            "description": "Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle"
+        },
+        {
+            "id": "12.1",
+            "type": "Target",
+            "label": "Target 12.1",
+            "description": "Implement the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries"
+        },
+        {
+            "id": "6.2",
+            "type": "Target",
+            "label": "Target 6.2",
+            "description": "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+        },
+        {
+            "id": "3.6",
+            "type": "Target",
+            "label": "Target 3.6",
+            "description": "By 2020, halve the number of global deaths and injuries from road traffic accidents"
+        },
+        {
+            "id": "10.5",
+            "type": "Target",
+            "label": "Target 10.5",
+            "description": "Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations"
+        },
+        {
+            "id": "10.6",
+            "type": "Target",
+            "label": "Target 10.6",
+            "description": "Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions"
+        },
+        {
+            "id": "17.15",
+            "type": "Target",
+            "label": "Target 17.15",
+            "description": "Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development"
+        },
+        {
+            "id": "10.2",
+            "type": "Target",
+            "label": "Target 10.2",
+            "description": "By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status"
+        },
+        {
+            "id": "12.3",
+            "type": "Target",
+            "label": "Target 12.3",
+            "description": "By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses"
+        },
+        {
+            "id": "15.8",
+            "type": "Target",
+            "label": "Target 15.8",
+            "description": "By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species"
+        },
+        {
+            "id": "1.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.1.1",
+            "description": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+        },
+        {
+            "id": "1.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.2.1",
+            "description": "Proportion of population living below the national poverty line, by sex and age"
+        },
+        {
+            "id": "1.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.3.1",
+            "description": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work -injury victims and the poor and the vulnerable"
+        },
+        {
+            "id": "1.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.4.1",
+            "description": "Proportion of population living in households with access to basic services"
+        },
+        {
+            "id": "1.4.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.4.2",
+            "description": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) w ho perceive their rights to land as secure, by sex and type of tenure"
+        },
+        {
+            "id": "1.5.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.5.2",
+            "description": "Direct economic loss attributed to disasters in label to global gross domestic product (GDP)"
+        },
+        {
+            "id": "1.5.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.5.3",
+            "description": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015 –2030"
+        },
+        {
+            "id": "1.5.4",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.5.4",
+            "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+        },
+        {
+            "id": "2.2.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 2.2.3",
+            "description": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+        },
+        {
+            "id": "2.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 2.3.1",
+            "description": "Volume of production per labour unit by c lasses of farming/pastoral/forestry enterprise size"
+        },
+        {
+            "id": "2.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 2.4.1",
+            "description": "Proportion of agricultural area under productive and sustainabl e agriculture"
+        },
+        {
+            "id": "3.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.1.1",
+            "description": "Maternal mortality ratio"
+        },
+        {
+            "id": "3.1.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.1.2",
+            "description": "Proportion of births attended by skilled health personnel"
+        },
+        {
+            "id": "3.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.2.1",
+            "description": "Under ‑5 mortality rate"
+        },
+        {
+            "id": "3.2.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.2.2",
+            "description": "Neonatal mortality rate"
+        },
+        {
+            "id": "3.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.3.1",
+            "description": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+        },
+        {
+            "id": "3.3.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.3.3",
+            "description": "Malaria incidence per 1,000 population"
+        },
+        {
+            "id": "3.3.4",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.3.4",
+            "description": "Hepatitis B incidence per 100,000 population"
+        },
+        {
+            "id": "3.3.5",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.3.5",
+            "description": "Number of people requiring interventions against neglected tropical diseases"
+        },
+        {
+            "id": "3.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.4.1",
+            "description": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+        },
+        {
+            "id": "3.4.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.4.2",
+            "description": "Suicide mortality rate"
+        },
+        {
+            "id": "3.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.5.1",
+            "description": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+        },
+        {
+            "id": "3.5.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.5.2",
+            "description": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+        },
+        {
+            "id": "3.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.7.1",
+            "description": "Proportion of women of reproductive age (aged 15 –49 years) who have their need for family planning satisfied with modern methods"
+        },
+        {
+            "id": "3.7.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.7.2",
+            "description": "Adolescent birth rate (aged 10 –14 years; aged 15 –19 years) per 1,000 women in that age group"
+        },
+        {
+            "id": "3.8.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.8.1",
+            "description": "Coverage of essential health services"
+        },
+        {
+            "id": "3.9.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.9.3",
+            "description": "Mortality rate attributed to unintentiona l poisoning"
+        },
+        {
+            "id": "4.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 4.2.1",
+            "description": "Proportion of children aged 24 –59 months who are developmentally on track in health, learning and psychosocial well -being, by sex"
+        },
+        {
+            "id": "4.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 4.3.1",
+            "description": "Parti cipation rate of youth and adults in formal and non -formal education and training in the previous 12 months, by sex"
+        },
+        {
+            "id": "4.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 4.6.1",
+            "description": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
+        },
+        {
+            "id": "5.2.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.2.2",
+            "description": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+        },
+        {
+            "id": "5.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.3.1",
+            "description": "Proportion of women aged 20 –24 years who were married or in a union before age 15 and before age 18"
+        },
+        {
+            "id": "5.5.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.5.2",
+            "description": "Proportion of women in managerial positions"
+        },
+        {
+            "id": "6.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.1.1",
+            "description": "Proportion of population using safely managed drinking water services"
+        },
+        {
+            "id": "6.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.3.1",
+            "description": "Proportion of domestic and industrial wastewater flows safely treated"
+        },
+        {
+            "id": "6.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.4.1",
+            "description": "Change in water -use efficiency over time"
+        },
+        {
+            "id": "6.4.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.4.2",
+            "description": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+        },
+        {
+            "id": "6.5.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.5.2",
+            "description": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
+        },
+        {
+            "id": "6.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.6.1",
+            "description": "Change in the extent of water -related ecosystems over time"
+        },
+        {
+            "id": "7.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 7.1.1",
+            "description": "Proportion of population with access to electricity"
+        },
+        {
+            "id": "7.1.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 7.1.2",
+            "description": "Pr oportion of population with primary reliance on clean fuels and technology"
+        },
+        {
+            "id": "7.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 7.2.1",
+            "description": "Renewable energy share in the total final energy consumption"
+        },
+        {
+            "id": "7.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 7.3.1",
+            "description": "Energy intensity m easured in terms of primary energy and GDP"
+        },
+        {
+            "id": "8.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.1.1",
+            "description": "Annual growth rate of real GDP per capita"
+        },
+        {
+            "id": "8.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.2.1",
+            "description": "Annual growth rate of real GDP per employed person"
+        },
+        {
+            "id": "8.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.3.1",
+            "description": "Proportion of informal employment in total employment, by sector and sex"
+        },
+        {
+            "id": "8.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.4.1",
+            "description": "Material Footprint, material footprint per capita, and material footprint per GDP"
+        },
+        {
+            "id": "8.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.5.1",
+            "description": "Average hourly earnings o f employees, by sex, age, occupation and persons with disabilities"
+        },
+        {
+            "id": "8.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.6.1",
+            "description": "Proportion of youth (aged 15 –24 years) not in education, employment or training"
+        },
+        {
+            "id": "8.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.7.1",
+            "description": "Proportion and number of children aged 5 –17 years engaged in child labour, by sex and age"
+        },
+        {
+            "id": "8.8.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.8.1",
+            "description": "Fatal and non -fatal occupational injuries per 100,000 workers , by sex and migrant status"
+        },
+        {
+            "id": "8.8.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.8.2",
+            "description": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour O rganization (ILO) textual sources and national legislation, by sex and migrant status"
+        },
+        {
+            "id": "8.10.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.10.1",
+            "description": "(a) Number of commercial bank branches per 100,000 adults and (b) Number of automated teller machines (ATMs) per 100,000 adults"
+        },
+        {
+            "id": "8.10.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.10.2",
+            "description": "Proportion of adults (15 years and older) with an a ccount at a bank or other financial institution or with a mobile -money -service provider"
+        },
+        {
+            "id": "9.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 9.1.1",
+            "description": "Proportion of the rural population who live within 2 km of an all -season road"
+        },
+        {
+            "id": "9.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 9.2.1",
+            "description": "Manufacturing value added as a proportion of GDP and per capita"
+        },
+        {
+            "id": "9.2.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 9.2.2",
+            "description": "Manufacturing employment as a proportion of total employment"
+        },
+        {
+            "id": "9.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 9.3.1",
+            "description": "Proportion of small -scale industries in total industry value added"
+        },
+        {
+            "id": "9.3.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 9.3.2",
+            "description": "Proportion of small -scale industries with a loan or line of credit"
+        },
+        {
+            "id": "9.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 9.5.1",
+            "description": "Research and development expenditure as a proportion of GDP"
+        },
+        {
+            "id": "10.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.4.1",
+            "description": "Labour share of GDP"
+        },
+        {
+            "id": "10.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.7.1",
+            "description": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
+        },
+        {
+            "id": "10.7.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.7.2",
+            "description": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+        },
+        {
+            "id": "10.7.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.7.3",
+            "description": "Number of people who died or disappeared in the process of migration towards an international destination"
+        },
+        {
+            "id": "11.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.1.1",
+            "description": "Proportion of urban population living in slums, informal settlements or inadequate housing"
+        },
+        {
+            "id": "11.2.1",
+            "type": "Indicator",
+            "formula": "compute_11_2_1.json",
+            "label": "Indicator 11.2.1",
+            "description": "Proportion of population that has convenient a ccess to public transport, by sex, age and persons with disabilities"
+        },
+        {
+            "id": "11.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.3.1",
+            "description": "Ratio of land consumption rate to population growth rate"
+        },
+        {
+            "id": "11.3.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.3.2",
+            "description": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operates regularly and democratically"
+        },
+        {
+            "id": "11.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.4.1",
+            "description": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+        },
+        {
+            "id": "11.6.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.6.2",
+            "description": "Annu al mean levels of fine particulate matter (e.g. PM 2.5 and PM 10) in cities (population weighted)"
+        },
+        {
+            "id": "11.7.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.7.2",
+            "description": "Proportion of persons victim of non -sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+        },
+        {
+            "id": "12.2.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.2.2",
+            "description": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+        },
+        {
+            "id": "12.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.4.1",
+            "description": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+        },
+        {
+            "id": "12.4.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.4.2",
+            "description": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of t reatment"
+        },
+        {
+            "id": "12.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.7.1",
+            "description": "Number of countries implementing sustainable public procurement policies and action plans"
+        },
+        {
+            "id": "12.8.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.8.1",
+            "description": "Extent to which (i ) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+        },
+        {
+            "id": "13.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 13.1.1",
+            "description": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+        },
+        {
+            "id": "13.1.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 13.1.2",
+            "description": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015 –2030"
+        },
+        {
+            "id": "13.1.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 13.1.3",
+            "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+        },
+        {
+            "id": "13.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 13.2.1",
+            "description": "Number of countries with nationally determined contributions, long -term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change"
+        },
+        {
+            "id": "13.2.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 13.2.2",
+            "description": "Total greenhouse gas emissions per year"
+        },
+        {
+            "id": "13.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 13.3.1",
+            "description": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student asse ssment"
+        },
+        {
+            "id": "14.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 14.1.1",
+            "description": "(a) Index of coastal eutrophication; and (b) plastic debris density"
+        },
+        {
+            "id": "14.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 14.2.1",
+            "description": "Number of countries using ecosystem -based approaches to managing marine areas"
+        },
+        {
+            "id": "14.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 14.3.1",
+            "description": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+        },
+        {
+            "id": "14.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 14.5.1",
+            "description": "Coverage of protected areas in label to marine areas"
+        },
+        {
+            "id": "14.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 14.6.1",
+            "description": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+        },
+        {
+            "id": "14.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 14.7.1",
+            "description": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
+        },
+        {
+            "id": "15.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.1.1",
+            "description": "Forest area as a proportion of total land area"
+        },
+        {
+            "id": "15.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.2.1",
+            "description": "Progress towards sustainabl e forest management"
+        },
+        {
+            "id": "15.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.3.1",
+            "description": "Proportion of land that is degraded over total land area"
+        },
+        {
+            "id": "15.4.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.4.2",
+            "description": "(a) Mountain Green Cover Index and ( b) proportion of degraded mountain land"
+        },
+        {
+            "id": "15.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.5.1",
+            "description": "Red List Index"
+        },
+        {
+            "id": "15.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.6.1",
+            "description": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of ben efits"
+        },
+        {
+            "id": "15.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.7.1",
+            "description": "Proportion of traded wildlife that was poached or illicitly trafficked"
+        },
+        {
+            "id": "15.9.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.9.1",
+            "description": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011 –2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental -Economic Accounting"
+        },
+        {
+            "id": "16.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.1.1",
+            "description": "Number of victims of intentional homicide per 100,000 population, by sex and age"
+        },
+        {
+            "id": "16.1.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.1.2",
+            "description": "Conflict -related deaths per 100,000 population, by sex, age and cause"
+        },
+        {
+            "id": "16.1.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.1.3",
+            "description": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
+        },
+        {
+            "id": "16.1.4",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.1.4",
+            "description": "Proportion of population that feel safe walking alone around the area they live after dark"
+        },
+        {
+            "id": "16.2.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.2.2",
+            "description": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+        },
+        {
+            "id": "16.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.3.1",
+            "description": "Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their v ictimization to competent authorities or other officially recognized conflict resolution mechanisms"
+        },
+        {
+            "id": "16.3.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.3.2",
+            "description": "Unsentenced detainees as a proportion of overall prison population"
+        },
+        {
+            "id": "16.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.4.1",
+            "description": "Total value of inward and outward illicit financial flows (in current United State s dollars )"
+        },
+        {
+            "id": "16.4.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.4.2",
+            "description": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with internation al instruments"
+        },
+        {
+            "id": "16.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.5.1",
+            "description": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, durin g the previous 12 months"
+        },
+        {
+            "id": "16.5.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.5.2",
+            "description": "Propor tion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+        },
+        {
+            "id": "16.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.6.1",
+            "description": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+        },
+        {
+            "id": "16.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.7.1",
+            "description": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+        },
+        {
+            "id": "16.9.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.9.1",
+            "description": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+        },
+        {
+            "id": "16.10.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.10.2",
+            "description": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees f or public access to information"
+        },
+        {
+            "id": "17.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.2.1",
+            "description": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistanc e Committee donors’ gross national income (GNI)"
+        },
+        {
+            "id": "17.3.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.3.2",
+            "description": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+        },
+        {
+            "id": "17.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.4.1",
+            "description": "Debt service as a proportion of exports of goods , services and primary income1"
+        },
+        {
+            "id": "17.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.5.1",
+            "description": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+        },
+        {
+            "id": "17.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.6.1",
+            "description": "Fixed broadband subscriptions per 100 inhabitants, by speed"
+        },
+        {
+            "id": "17.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.7.1",
+            "description": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies1"
+        },
+        {
+            "id": "17.8.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.8.1",
+            "description": "Proportion of individuals using the Internet"
+        },
+        {
+            "id": "17.9.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.9.1",
+            "description": "Dollar value of financial and technical assistance (including through North -South, South‑South and triangular cooperation) committed to devel oping countries"
+        },
+        {
+            "id": "17.11.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.11.1",
+            "description": "Developing countries’ and least developed countries’ share of global exports"
+        },
+        {
+            "id": "17.16.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.16.1",
+            "description": "Number of countries reporting progress in multi -stakeholder development effectiveness monitor ing frameworks that support the achievement of the sustainable development goals"
+        },
+        {
+            "id": "17.18.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.18.2",
+            "description": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
+        },
+        {
+            "id": "17.18.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.18.3",
+            "description": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+        },
+        {
+            "id": "17.19.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.19.1",
+            "description": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
+        },
+        {
+            "id": "17.19.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.19.2",
+            "description": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
+        },
+        {
+            "id": "2.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 2.1.1",
+            "description": "Prevalence of undernourishment"
+        },
+        {
+            "id": "16.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.2.1",
+            "description": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
+        },
+        {
+            "id": "15.1.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.1.2",
+            "description": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+        },
+        {
+            "id": "5.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.2.1",
+            "description": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+        },
+        {
+            "id": "5.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.4.1",
+            "description": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+        },
+        {
+            "id": "5.6.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.6.2",
+            "description": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+        },
+        {
+            "id": "5.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.5.1",
+            "description": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
+        },
+        {
+            "id": "5.3.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.3.2",
+            "description": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age"
+        },
+        {
+            "id": "5.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 5.1.1",
+            "description": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+        },
+        {
+            "id": "17.12.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.12.1",
+            "description": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+        },
+        {
+            "id": "9.5.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 9.5.2",
+            "description": "Researchers (in full-time equivalent) per million inhabitants"
+        },
+        {
+            "id": "11.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.5.1",
+            "description": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+        },
+        {
+            "id": "3.8.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.8.2",
+            "description": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
+        },
+        {
+            "id": "3.9.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.9.2",
+            "description": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe WASH services)"
+        },
+        {
+            "id": "8.9.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.9.1",
+            "description": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+        },
+        {
+            "id": "17.10.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.10.1",
+            "description": "Worldwide weighted tariff-average"
+        },
+        {
+            "id": "4.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 4.4.1",
+            "description": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+        },
+        {
+            "id": "9.1.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 9.1.2",
+            "description": "Passenger and freight volumes, by mode of transport"
+        },
+        {
+            "id": "8.5.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.5.2",
+            "description": "Unemployment rate, by sex, age and persons with disabilities"
+        },
+        {
+            "id": "10.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.1.1",
+            "description": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+        },
+        {
+            "id": "17.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.1.1",
+            "description": "Total government revenue as a proportion of GDP, by source"
+        },
+        {
+            "id": "8.4.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 8.4.2",
+            "description": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+        },
+        {
+            "id": "6.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.5.1",
+            "description": "Degree of integrated water resources management implementation (0-100)"
+        },
+        {
+            "id": "16.8.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.8.1",
+            "description": "Proportion of members and voting rights of developing countries in international organizations"
+        },
+        {
+            "id": "2.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 2.5.1",
+            "description": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
+        },
+        {
+            "id": "14.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 14.4.1",
+            "description": "Proportion of fish stocks within biologically sustainable levels"
+        },
+        {
+            "id": "17.13.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.13.1",
+            "description": "Macroeconomic Dashboard"
+        },
+        {
+            "id": "12.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.6.1",
+            "description": "Number of companies publishing sustainability reports"
+        },
+        {
+            "id": "16.10.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.10.1",
+            "description": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+        },
+        {
+            "id": "12.1.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.1.1",
+            "description": "Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies"
+        },
+        {
+            "id": "6.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.2.1",
+            "description": "Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water"
+        },
+        {
+            "id": "3.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 3.6.1",
+            "description": "Death rate due to road traffic injuries"
+        },
+        {
+            "id": "11.7.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.7.1",
+            "description": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+        },
+        {
+            "id": "10.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.5.1",
+            "description": "Financial Soundness Indicators"
+        },
+        {
+            "id": "17.18.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.18.1",
+            "description": "Statistical capacity indicator for Sustainable Development Goal monitoring"
+        },
+        {
+            "id": "10.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.6.1",
+            "description": "Proportion of members and voting rights of developing countries in international organizations"
+        },
+        {
+            "id": "1.5.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.5.1",
+            "description": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+        },
+        {
+            "id": "6.3.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 6.3.2",
+            "description": "Proportion of bodies of water with good ambient water quality"
+        },
+        {
+            "id": "17.1.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.1.2",
+            "description": "Proportion of domestic budget funded by domestic taxes"
+        },
+        {
+            "id": "17.15.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.15.1",
+            "description": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
+        },
+        {
+            "id": "11.6.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.6.1",
+            "description": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+        },
+        {
+            "id": "15.4.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.4.1",
+            "description": "Coverage by protected areas of important sites for mountain biodiversity"
+        },
+        {
+            "id": "16.6.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.6.2",
+            "description": "Proportion of the population satisfied with their last experience of public services"
+        },
+        {
+            "id": "10.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.2.1",
+            "description": "Proportion of people living below 50 per cent of median income, by age, sex and persons with disabilities"
+        },
+        {
+            "id": "16.3.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 16.3.3",
+            "description": "Proportion of the population who have experienced a dispute in the past 12 months and who have accessed a formal or informal dispute resolution mechanism"
+        },
+        {
+            "id": "1.2.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 1.2.2",
+            "description": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+        },
+        {
+            "id": "11.5.3",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.5.3",
+            "description": "Direct economic loss attributed to disasters, by sector (housing, health, education, productive assets)"
+        },
+        {
+            "id": "12.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.3.1",
+            "description": "Global food loss index"
+        },
+        {
+            "id": "4.2.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 4.2.2",
+            "description": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+        },
+        {
+            "id": "11.5.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 11.5.2",
+            "description": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+        },
+        {
+            "id": "2.1.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 2.1.2",
+            "description": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+        },
+        {
+            "id": "15.8.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 15.8.1",
+            "description": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+        },
+        {
+            "id": "12.2.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 12.2.1",
+            "description": "Material footprint, material footprint per capita, and material footprint per GDP"
+        },
+        {
+            "id": "17.3.1",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 17.3.1",
+            "description": "Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget"
+        },
+        {
+            "id": "10.4.2",
+            "type": "Indicator",
+            "formula": "",
+            "label": "Indicator 10.4.2",
+            "description": "Redistributive impact of fiscal policy"
+        },
+        {"id": "Population", "type": "Concept"},
+        {"id": "StreetNetwork", "type": "Concept"},
+        {"id": "PublicTransport", "type": "Concept"},
+        {
+            "id": "BasicLearning",
+            "type": "Concept"
+        },
+        {
+            "id": "BiodiversityFunding",
+            "type": "Concept"
+        },
+        {
+            "id": "BuiltUpArea",
+            "type": "Concept"
+        },
+        {
+            "id": "ChildMortality",
+            "type": "Concept"
+        },
+        {
+            "id": "CleanFuels",
+            "type": "Concept"
+        },
+        {
+            "id": "ClimateEducation",
+            "type": "Concept"
+        },
+        {
+            "id": "ClimateEvents",
+            "type": "Concept"
+        },
+        {
+            "id": "DisasterImpact",
+            "type": "Concept"
+        },
+        {
+            "id": "Discrimination",
+            "type": "Concept"
+        },
+        {
+            "id": "EducationLevel",
+            "type": "Concept"
+        },
+        {
+            "id": "EducationSustainableDevelopment",
+            "type": "Concept"
+        },
+        {
+            "id": "Employment",
+            "type": "Concept"
+        },
+        {
+            "id": "FoodSecurity",
+            "type": "Concept"
+        },
+        {
+            "id": "ForestArea",
+            "type": "Concept"
+        },
+        {
+            "id": "FreedomPress",
+            "type": "Concept"
+        },
+        {
+            "id": "GenderEquality",
+            "type": "Concept"
+        },
+        {
+            "id": "GlobalCitizenship",
+            "type": "Concept"
+        },
+        {
+            "id": "HealthCareAccess",
+            "type": "Concept"
+        },
+        {
+            "id": "Homicide",
+            "type": "Concept"
+        },
+        {
+            "id": "HouseholdIncome",
+            "type": "Concept"
+        },
+        {
+            "id": "Hygiene",
+            "type": "Concept"
+        },
+        {
+            "id": "IllegalWildlifeTrade",
+            "type": "Concept"
+        },
+        {
+            "id": "Immunization",
+            "type": "Concept"
+        },
+        {
+            "id": "Inclusion",
+            "type": "Concept"
+        },
+        {
+            "id": "Income",
+            "type": "Concept"
+        },
+        {
+            "id": "JournalistSafety",
+            "type": "Concept"
+        },
+        {
+            "id": "LandCover",
+            "type": "Concept"
+        },
+        {
+            "id": "LocalRiskPlanning",
+            "type": "Concept"
+        },
+        {
+            "id": "ManufacturingEmployment",
+            "type": "Concept"
+        },
+        {
+            "id": "ManufacturingValueAdded",
+            "type": "Concept"
+        },
+        {
+            "id": "MaterialFootprint",
+            "type": "Concept"
+        },
+        {
+            "id": "MaternalMortality",
+            "type": "Concept"
+        },
+        {
+            "id": "MunicipalCollection",
+            "type": "Concept"
+        },
+        {
+            "id": "NaturalResources",
+            "type": "Concept"
+        },
+        {
+            "id": "Nutrition",
+            "type": "Concept"
+        },
+        {
+            "id": "OccupationalData",
+            "type": "Concept"
+        },
+        {
+            "id": "Population",
+            "type": "Concept"
+        },
+        {
+            "id": "PovertyLine",
+            "type": "Concept"
+        },
+        {
+            "id": "PovertyThreshold",
+            "type": "Concept"
+        },
+        {
+            "id": "PublicSpace",
+            "type": "Concept"
+        },
+        {
+            "id": "PublicTransport",
+            "type": "Concept"
+        },
+        {
+            "id": "RiskReductionStrategy",
+            "type": "Concept"
+        },
+        {
+            "id": "Sanitation",
+            "type": "Concept"
+        },
+        {
+            "id": "Slums",
+            "type": "Concept"
+        },
+        {
+            "id": "StreetNetwork",
+            "type": "Concept"
+        },
+        {
+            "id": "TechnologyAccess",
+            "type": "Concept"
+        },
+        {
+            "id": "UrbanDamage",
+            "type": "Concept"
+        },
+        {
+            "id": "UrbanHousing",
+            "type": "Concept"
+        },
+        {
+            "id": "UrbanWaste",
+            "type": "Concept"
+        },
+        {
+            "id": "ViolenceExperience",
+            "type": "Concept"
+        },
+        {
+            "id": "Wages",
+            "type": "Concept"
+        },
+        {
+            "id": "WaterAccess",
+            "type": "Concept"
+        },
+        {
+            "id": "WildlifePoaching",
+            "type": "Concept"
+        },
+        {"id": "Space", "type": "Attribute", "attr_type": "string"},
+        {"id": "Time", "type": "Attribute", "attr_type": "datetime"},
+        {"id": "Value", "type": "Attribute", "attr_type": "numerical"},
+        {"id": "Age", "type": "Attribute", "attr_type": "tuple(int,int)"},
+        {"id": "Sex", "type": "Attribute", "attr_type": "categorical"},
+        {"id": "Disability", "type": "Attribute", "attr_type": "categorical"},
+        {"id": "Capacity", "type": "Attribute", "attr_type": "categorical"}
+    ],
+    "edges": [
+        
+        {
+            "source": "1",
+            "label": "HAS_TARGET",
+            "target": "1.1"
+        },
+        {
+            "source": "1",
+            "label": "HAS_TARGET",
+            "target": "1.1"
+        },
+        {
+            "source": "1",
+            "label": "HAS_TARGET",
+            "target": "1.2"
+        },
+        {
+            "source": "1",
+            "label": "HAS_TARGET",
+            "target": "1.3"
+        },
+        {
+            "source": "1",
+            "label": "HAS_TARGET",
+            "target": "1.4"
+        },
+        {
+            "source": "1",
+            "label": "HAS_TARGET",
+            "target": "1.4"
+        },
+        {
+            "source": "1",
+            "label": "HAS_TARGET",
+            "target": "1.5"
+        },
+        {
+            "source": "2",
+            "label": "HAS_TARGET",
+            "target": "2.2"
+        },
+        {
+            "source": "2",
+            "label": "HAS_TARGET",
+            "target": "2.3"
+        },
+        {
+            "source": "2",
+            "label": "HAS_TARGET",
+            "target": "2.4"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.1"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.2"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.3"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.3"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.4"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.5"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.7"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.8"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.9"
+        },
+        {
+            "source": "4",
+            "label": "HAS_TARGET",
+            "target": "4.2"
+        },
+        {
+            "source": "4",
+            "label": "HAS_TARGET",
+            "target": "4.3"
+        },
+        {
+            "source": "4",
+            "label": "HAS_TARGET",
+            "target": "4.6"
+        },
+        {
+            "source": "5",
+            "label": "HAS_TARGET",
+            "target": "5.2"
+        },
+        {
+            "source": "5",
+            "label": "HAS_TARGET",
+            "target": "5.3"
+        },
+        {
+            "source": "5",
+            "label": "HAS_TARGET",
+            "target": "5.5"
+        },
+        {
+            "source": "6",
+            "label": "HAS_TARGET",
+            "target": "6.1"
+        },
+        {
+            "source": "6",
+            "label": "HAS_TARGET",
+            "target": "6.3"
+        },
+        {
+            "source": "6",
+            "label": "HAS_TARGET",
+            "target": "6.4"
+        },
+        {
+            "source": "6",
+            "label": "HAS_TARGET",
+            "target": "6.5"
+        },
+        {
+            "source": "6",
+            "label": "HAS_TARGET",
+            "target": "6.6"
+        },
+        {
+            "source": "7",
+            "label": "HAS_TARGET",
+            "target": "7.1"
+        },
+        {
+            "source": "7",
+            "label": "HAS_TARGET",
+            "target": "7.2"
+        },
+        {
+            "source": "7",
+            "label": "HAS_TARGET",
+            "target": "7.3"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.1"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.2"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.3"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.4"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.5"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.6"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.7"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.8"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.8"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.1"
+        },
+        {
+            "source": "9",
+            "label": "HAS_TARGET",
+            "target": "9.1"
+        },
+        {
+            "source": "9",
+            "label": "HAS_TARGET",
+            "target": "9.2"
+        },
+        {
+            "source": "9",
+            "label": "HAS_TARGET",
+            "target": "9.2"
+        },
+        {
+            "source": "9",
+            "label": "HAS_TARGET",
+            "target": "9.3"
+        },
+        {
+            "source": "9",
+            "label": "HAS_TARGET",
+            "target": "9.5"
+        },
+        {
+            "source": "10",
+            "label": "HAS_TARGET",
+            "target": "10.4"
+        },
+        {
+            "source": "10",
+            "label": "HAS_TARGET",
+            "target": "10.7"
+        },
+        {
+            "source": "11",
+            "label": "HAS_TARGET",
+            "target": "11.1"
+        },
+        {
+            "source": "11",
+            "label": "HAS_TARGET",
+            "target": "11.2"
+        },
+        {
+            "source": "11",
+            "label": "HAS_TARGET",
+            "target": "11.3"
+        },
+        {
+            "source": "11",
+            "label": "HAS_TARGET",
+            "target": "11.4"
+        },
+        {
+            "source": "11",
+            "label": "HAS_TARGET",
+            "target": "11.6"
+        },
+        {
+            "source": "11",
+            "label": "HAS_TARGET",
+            "target": "11.7"
+        },
+        {
+            "source": "12",
+            "label": "HAS_TARGET",
+            "target": "12.2"
+        },
+        {
+            "source": "12",
+            "label": "HAS_TARGET",
+            "target": "12.4"
+        },
+        {
+            "source": "12",
+            "label": "HAS_TARGET",
+            "target": "12.4"
+        },
+        {
+            "source": "12",
+            "label": "HAS_TARGET",
+            "target": "12.7"
+        },
+        {
+            "source": "12",
+            "label": "HAS_TARGET",
+            "target": "12.8"
+        },
+        {
+            "source": "13",
+            "label": "HAS_TARGET",
+            "target": "13.1"
+        },
+        {
+            "source": "13",
+            "label": "HAS_TARGET",
+            "target": "13.2"
+        },
+        {
+            "source": "13",
+            "label": "HAS_TARGET",
+            "target": "13.3"
+        },
+        {
+            "source": "14",
+            "label": "HAS_TARGET",
+            "target": "14.1"
+        },
+        {
+            "source": "14",
+            "label": "HAS_TARGET",
+            "target": "14.2"
+        },
+        {
+            "source": "14",
+            "label": "HAS_TARGET",
+            "target": "14.3"
+        },
+        {
+            "source": "14",
+            "label": "HAS_TARGET",
+            "target": "14.5"
+        },
+        {
+            "source": "14",
+            "label": "HAS_TARGET",
+            "target": "14.6"
+        },
+        {
+            "source": "14",
+            "label": "HAS_TARGET",
+            "target": "14.7"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.1"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.2"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.3"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.4"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.5"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.6"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.7"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.9"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.1"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.2"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.3"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.4"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.4"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.5"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.6"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.7"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.9"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.1"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.2"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.3"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.4"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.5"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.6"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.7"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.8"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.9"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.11"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.16"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.18"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.19"
+        },
+        {
+            "source": "2",
+            "label": "HAS_TARGET",
+            "target": "2.1"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.2"
+        },
+        {
+            "source": "5",
+            "label": "HAS_TARGET",
+            "target": "5.4"
+        },
+        {
+            "source": "5",
+            "label": "HAS_TARGET",
+            "target": "5.6"
+        },
+        {
+            "source": "5",
+            "label": "HAS_TARGET",
+            "target": "5.5"
+        },
+        {
+            "source": "5",
+            "label": "HAS_TARGET",
+            "target": "5.1"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.12"
+        },
+        {
+            "source": "9",
+            "label": "HAS_TARGET",
+            "target": "9.5"
+        },
+        {
+            "source": "11",
+            "label": "HAS_TARGET",
+            "target": "11.5"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.8"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.9"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.1"
+        },
+        {
+            "source": "4",
+            "label": "HAS_TARGET",
+            "target": "4.4"
+        },
+        {
+            "source": "10",
+            "label": "HAS_TARGET",
+            "target": "10.1"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.1"
+        },
+        {
+            "source": "8",
+            "label": "HAS_TARGET",
+            "target": "8.4"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.8"
+        },
+        {
+            "source": "2",
+            "label": "HAS_TARGET",
+            "target": "2.5"
+        },
+        {
+            "source": "14",
+            "label": "HAS_TARGET",
+            "target": "14.4"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.13"
+        },
+        {
+            "source": "12",
+            "label": "HAS_TARGET",
+            "target": "12.6"
+        },
+        {
+            "source": "16",
+            "label": "HAS_TARGET",
+            "target": "16.1"
+        },
+        {
+            "source": "12",
+            "label": "HAS_TARGET",
+            "target": "12.1"
+        },
+        {
+            "source": "6",
+            "label": "HAS_TARGET",
+            "target": "6.2"
+        },
+        {
+            "source": "3",
+            "label": "HAS_TARGET",
+            "target": "3.6"
+        },
+        {
+            "source": "10",
+            "label": "HAS_TARGET",
+            "target": "10.5"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.18"
+        },
+        {
+            "source": "10",
+            "label": "HAS_TARGET",
+            "target": "10.6"
+        },
+        {
+            "source": "1",
+            "label": "HAS_TARGET",
+            "target": "1.5"
+        },
+        {
+            "source": "6",
+            "label": "HAS_TARGET",
+            "target": "6.3"
+        },
+        {
+            "source": "17",
+            "label": "HAS_TARGET",
+            "target": "17.15"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.4"
+        },
+        {
+            "source": "10",
+            "label": "HAS_TARGET",
+            "target": "10.2"
+        },
+        {
+            "source": "12",
+            "label": "HAS_TARGET",
+            "target": "12.3"
+        },
+        {
+            "source": "4",
+            "label": "HAS_TARGET",
+            "target": "4.2"
+        },
+        {
+            "source": "15",
+            "label": "HAS_TARGET",
+            "target": "15.8"
+        },
+        {
+            "source": "1.1",
+            "label": "HAS_INDICATOR",
+            "target": "1.1.1"
+        },
+        {
+            "source": "1.2",
+            "label": "HAS_INDICATOR",
+            "target": "1.2.1"
+        },
+        {
+            "source": "1.3",
+            "label": "HAS_INDICATOR",
+            "target": "1.3.1"
+        },
+        {
+            "source": "1.4",
+            "label": "HAS_INDICATOR",
+            "target": "1.4.1"
+        },
+        {
+            "source": "1.4",
+            "label": "HAS_INDICATOR",
+            "target": "1.4.2"
+        },
+        {
+            "source": "1.5",
+            "label": "HAS_INDICATOR",
+            "target": "1.5.2"
+        },
+        {
+            "source": "1.5",
+            "label": "HAS_INDICATOR",
+            "target": "1.5.3"
+        },
+        {
+            "source": "1.5",
+            "label": "HAS_INDICATOR",
+            "target": "1.5.4"
+        },
+        {
+            "source": "2.2",
+            "label": "HAS_INDICATOR",
+            "target": "2.2.3"
+        },
+        {
+            "source": "2.3",
+            "label": "HAS_INDICATOR",
+            "target": "2.3.1"
+        },
+        {
+            "source": "2.4",
+            "label": "HAS_INDICATOR",
+            "target": "2.4.1"
+        },
+        {
+            "source": "3.1",
+            "label": "HAS_INDICATOR",
+            "target": "3.1.1"
+        },
+        {
+            "source": "3.1",
+            "label": "HAS_INDICATOR",
+            "target": "3.1.2"
+        },
+        {
+            "source": "3.2",
+            "label": "HAS_INDICATOR",
+            "target": "3.2.1"
+        },
+        {
+            "source": "3.2",
+            "label": "HAS_INDICATOR",
+            "target": "3.2.2"
+        },
+        {
+            "source": "3.3",
+            "label": "HAS_INDICATOR",
+            "target": "3.3.1"
+        },
+        {
+            "source": "3.3",
+            "label": "HAS_INDICATOR",
+            "target": "3.3.3"
+        },
+        {
+            "source": "3.3",
+            "label": "HAS_INDICATOR",
+            "target": "3.3.4"
+        },
+        {
+            "source": "3.3",
+            "label": "HAS_INDICATOR",
+            "target": "3.3.5"
+        },
+        {
+            "source": "3.4",
+            "label": "HAS_INDICATOR",
+            "target": "3.4.1"
+        },
+        {
+            "source": "3.4",
+            "label": "HAS_INDICATOR",
+            "target": "3.4.2"
+        },
+        {
+            "source": "3.5",
+            "label": "HAS_INDICATOR",
+            "target": "3.5.1"
+        },
+        {
+            "source": "3.5",
+            "label": "HAS_INDICATOR",
+            "target": "3.5.2"
+        },
+        {
+            "source": "3.7",
+            "label": "HAS_INDICATOR",
+            "target": "3.7.1"
+        },
+        {
+            "source": "3.7",
+            "label": "HAS_INDICATOR",
+            "target": "3.7.2"
+        },
+        {
+            "source": "3.8",
+            "label": "HAS_INDICATOR",
+            "target": "3.8.1"
+        },
+        {
+            "source": "3.9",
+            "label": "HAS_INDICATOR",
+            "target": "3.9.3"
+        },
+        {
+            "source": "4.2",
+            "label": "HAS_INDICATOR",
+            "target": "4.2.1"
+        },
+        {
+            "source": "4.3",
+            "label": "HAS_INDICATOR",
+            "target": "4.3.1"
+        },
+        {
+            "source": "4.6",
+            "label": "HAS_INDICATOR",
+            "target": "4.6.1"
+        },
+        {
+            "source": "5.2",
+            "label": "HAS_INDICATOR",
+            "target": "5.2.2"
+        },
+        {
+            "source": "5.3",
+            "label": "HAS_INDICATOR",
+            "target": "5.3.1"
+        },
+        {
+            "source": "5.5",
+            "label": "HAS_INDICATOR",
+            "target": "5.5.2"
+        },
+        {
+            "source": "6.1",
+            "label": "HAS_INDICATOR",
+            "target": "6.1.1"
+        },
+        {
+            "source": "6.3",
+            "label": "HAS_INDICATOR",
+            "target": "6.3.1"
+        },
+        {
+            "source": "6.4",
+            "label": "HAS_INDICATOR",
+            "target": "6.4.1"
+        },
+        {
+            "source": "6.4",
+            "label": "HAS_INDICATOR",
+            "target": "6.4.2"
+        },
+        {
+            "source": "6.5",
+            "label": "HAS_INDICATOR",
+            "target": "6.5.2"
+        },
+        {
+            "source": "6.6",
+            "label": "HAS_INDICATOR",
+            "target": "6.6.1"
+        },
+        {
+            "source": "7.1",
+            "label": "HAS_INDICATOR",
+            "target": "7.1.1"
+        },
+        {
+            "source": "7.1",
+            "label": "HAS_INDICATOR",
+            "target": "7.1.2"
+        },
+        {
+            "source": "7.2",
+            "label": "HAS_INDICATOR",
+            "target": "7.2.1"
+        },
+        {
+            "source": "7.3",
+            "label": "HAS_INDICATOR",
+            "target": "7.3.1"
+        },
+        {
+            "source": "8.1",
+            "label": "HAS_INDICATOR",
+            "target": "8.1.1"
+        },
+        {
+            "source": "8.2",
+            "label": "HAS_INDICATOR",
+            "target": "8.2.1"
+        },
+        {
+            "source": "8.3",
+            "label": "HAS_INDICATOR",
+            "target": "8.3.1"
+        },
+        {
+            "source": "8.4",
+            "label": "HAS_INDICATOR",
+            "target": "8.4.1"
+        },
+        {
+            "source": "8.5",
+            "label": "HAS_INDICATOR",
+            "target": "8.5.1"
+        },
+        {
+            "source": "8.6",
+            "label": "HAS_INDICATOR",
+            "target": "8.6.1"
+        },
+        {
+            "source": "8.7",
+            "label": "HAS_INDICATOR",
+            "target": "8.7.1"
+        },
+        {
+            "source": "8.8",
+            "label": "HAS_INDICATOR",
+            "target": "8.8.1"
+        },
+        {
+            "source": "8.8",
+            "label": "HAS_INDICATOR",
+            "target": "8.8.2"
+        },
+        {
+            "source": "8.1",
+            "label": "HAS_INDICATOR",
+            "target": "8.10.1"
+        },
+        {
+            "source": "8.1",
+            "label": "HAS_INDICATOR",
+            "target": "8.10.2"
+        },
+        {
+            "source": "9.1",
+            "label": "HAS_INDICATOR",
+            "target": "9.1.1"
+        },
+        {
+            "source": "9.2",
+            "label": "HAS_INDICATOR",
+            "target": "9.2.1"
+        },
+        {
+            "source": "9.2",
+            "label": "HAS_INDICATOR",
+            "target": "9.2.2"
+        },
+        {
+            "source": "9.3",
+            "label": "HAS_INDICATOR",
+            "target": "9.3.1"
+        },
+        {
+            "source": "9.3",
+            "label": "HAS_INDICATOR",
+            "target": "9.3.2"
+        },
+        {
+            "source": "9.5",
+            "label": "HAS_INDICATOR",
+            "target": "9.5.1"
+        },
+        {
+            "source": "10.4",
+            "label": "HAS_INDICATOR",
+            "target": "10.4.1"
+        },
+        {
+            "source": "10.7",
+            "label": "HAS_INDICATOR",
+            "target": "10.7.1"
+        },
+        {
+            "source": "10.7",
+            "label": "HAS_INDICATOR",
+            "target": "10.7.2"
+        },
+        {
+            "source": "10.7",
+            "label": "HAS_INDICATOR",
+            "target": "10.7.3"
+        },
+        {
+            "source": "11.1",
+            "label": "HAS_INDICATOR",
+            "target": "11.1.1"
+        },
+        {
+            "source": "11.2",
+            "label": "HAS_INDICATOR",
+            "target": "11.2.1"
+        },
+        {
+            "source": "11.3",
+            "label": "HAS_INDICATOR",
+            "target": "11.3.1"
+        },
+        {
+            "source": "11.3",
+            "label": "HAS_INDICATOR",
+            "target": "11.3.2"
+        },
+        {
+            "source": "11.4",
+            "label": "HAS_INDICATOR",
+            "target": "11.4.1"
+        },
+        {
+            "source": "11.6",
+            "label": "HAS_INDICATOR",
+            "target": "11.6.2"
+        },
+        {
+            "source": "11.7",
+            "label": "HAS_INDICATOR",
+            "target": "11.7.2"
+        },
+        {
+            "source": "12.2",
+            "label": "HAS_INDICATOR",
+            "target": "12.2.2"
+        },
+        {
+            "source": "12.4",
+            "label": "HAS_INDICATOR",
+            "target": "12.4.1"
+        },
+        {
+            "source": "12.4",
+            "label": "HAS_INDICATOR",
+            "target": "12.4.2"
+        },
+        {
+            "source": "12.7",
+            "label": "HAS_INDICATOR",
+            "target": "12.7.1"
+        },
+        {
+            "source": "12.8",
+            "label": "HAS_INDICATOR",
+            "target": "12.8.1"
+        },
+        {
+            "source": "13.1",
+            "label": "HAS_INDICATOR",
+            "target": "13.1.1"
+        },
+        {
+            "source": "13.1",
+            "label": "HAS_INDICATOR",
+            "target": "13.1.2"
+        },
+        {
+            "source": "13.1",
+            "label": "HAS_INDICATOR",
+            "target": "13.1.3"
+        },
+        {
+            "source": "13.2",
+            "label": "HAS_INDICATOR",
+            "target": "13.2.1"
+        },
+        {
+            "source": "13.2",
+            "label": "HAS_INDICATOR",
+            "target": "13.2.2"
+        },
+        {
+            "source": "13.3",
+            "label": "HAS_INDICATOR",
+            "target": "13.3.1"
+        },
+        {
+            "source": "14.1",
+            "label": "HAS_INDICATOR",
+            "target": "14.1.1"
+        },
+        {
+            "source": "14.2",
+            "label": "HAS_INDICATOR",
+            "target": "14.2.1"
+        },
+        {
+            "source": "14.3",
+            "label": "HAS_INDICATOR",
+            "target": "14.3.1"
+        },
+        {
+            "source": "14.5",
+            "label": "HAS_INDICATOR",
+            "target": "14.5.1"
+        },
+        {
+            "source": "14.6",
+            "label": "HAS_INDICATOR",
+            "target": "14.6.1"
+        },
+        {
+            "source": "14.7",
+            "label": "HAS_INDICATOR",
+            "target": "14.7.1"
+        },
+        {
+            "source": "15.1",
+            "label": "HAS_INDICATOR",
+            "target": "15.1.1"
+        },
+        {
+            "source": "15.2",
+            "label": "HAS_INDICATOR",
+            "target": "15.2.1"
+        },
+        {
+            "source": "15.3",
+            "label": "HAS_INDICATOR",
+            "target": "15.3.1"
+        },
+        {
+            "source": "15.4",
+            "label": "HAS_INDICATOR",
+            "target": "15.4.2"
+        },
+        {
+            "source": "15.5",
+            "label": "HAS_INDICATOR",
+            "target": "15.5.1"
+        },
+        {
+            "source": "15.6",
+            "label": "HAS_INDICATOR",
+            "target": "15.6.1"
+        },
+        {
+            "source": "15.7",
+            "label": "HAS_INDICATOR",
+            "target": "15.7.1"
+        },
+        {
+            "source": "15.9",
+            "label": "HAS_INDICATOR",
+            "target": "15.9.1"
+        },
+        {
+            "source": "16.1",
+            "label": "HAS_INDICATOR",
+            "target": "16.1.1"
+        },
+        {
+            "source": "16.1",
+            "label": "HAS_INDICATOR",
+            "target": "16.1.2"
+        },
+        {
+            "source": "16.1",
+            "label": "HAS_INDICATOR",
+            "target": "16.1.3"
+        },
+        {
+            "source": "16.1",
+            "label": "HAS_INDICATOR",
+            "target": "16.1.4"
+        },
+        {
+            "source": "16.2",
+            "label": "HAS_INDICATOR",
+            "target": "16.2.2"
+        },
+        {
+            "source": "16.3",
+            "label": "HAS_INDICATOR",
+            "target": "16.3.1"
+        },
+        {
+            "source": "16.3",
+            "label": "HAS_INDICATOR",
+            "target": "16.3.2"
+        },
+        {
+            "source": "16.4",
+            "label": "HAS_INDICATOR",
+            "target": "16.4.1"
+        },
+        {
+            "source": "16.4",
+            "label": "HAS_INDICATOR",
+            "target": "16.4.2"
+        },
+        {
+            "source": "16.5",
+            "label": "HAS_INDICATOR",
+            "target": "16.5.1"
+        },
+        {
+            "source": "16.5",
+            "label": "HAS_INDICATOR",
+            "target": "16.5.2"
+        },
+        {
+            "source": "16.6",
+            "label": "HAS_INDICATOR",
+            "target": "16.6.1"
+        },
+        {
+            "source": "16.7",
+            "label": "HAS_INDICATOR",
+            "target": "16.7.1"
+        },
+        {
+            "source": "16.7",
+            "label": "HAS_INDICATOR",
+            "target": "16.7.1"
+        },
+        {
+            "source": "16.9",
+            "label": "HAS_INDICATOR",
+            "target": "16.9.1"
+        },
+        {
+            "source": "16.1",
+            "label": "HAS_INDICATOR",
+            "target": "16.10.2"
+        },
+        {
+            "source": "17.2",
+            "label": "HAS_INDICATOR",
+            "target": "17.2.1"
+        },
+        {
+            "source": "17.3",
+            "label": "HAS_INDICATOR",
+            "target": "17.3.2"
+        },
+        {
+            "source": "17.4",
+            "label": "HAS_INDICATOR",
+            "target": "17.4.1"
+        },
+        {
+            "source": "17.5",
+            "label": "HAS_INDICATOR",
+            "target": "17.5.1"
+        },
+        {
+            "source": "17.6",
+            "label": "HAS_INDICATOR",
+            "target": "17.6.1"
+        },
+        {
+            "source": "17.7",
+            "label": "HAS_INDICATOR",
+            "target": "17.7.1"
+        },
+        {
+            "source": "17.8",
+            "label": "HAS_INDICATOR",
+            "target": "17.8.1"
+        },
+        {
+            "source": "17.9",
+            "label": "HAS_INDICATOR",
+            "target": "17.9.1"
+        },
+        {
+            "source": "17.11",
+            "label": "HAS_INDICATOR",
+            "target": "17.11.1"
+        },
+        {
+            "source": "17.16",
+            "label": "HAS_INDICATOR",
+            "target": "17.16.1"
+        },
+        {
+            "source": "17.18",
+            "label": "HAS_INDICATOR",
+            "target": "17.18.2"
+        },
+        {
+            "source": "17.18",
+            "label": "HAS_INDICATOR",
+            "target": "17.18.3"
+        },
+        {
+            "source": "17.19",
+            "label": "HAS_INDICATOR",
+            "target": "17.19.1"
+        },
+        {
+            "source": "17.19",
+            "label": "HAS_INDICATOR",
+            "target": "17.19.2"
+        },
+        {
+            "source": "2.1",
+            "label": "HAS_INDICATOR",
+            "target": "2.1.1"
+        },
+        {
+            "source": "16.2",
+            "label": "HAS_INDICATOR",
+            "target": "16.2.1"
+        },
+        {
+            "source": "15.1",
+            "label": "HAS_INDICATOR",
+            "target": "15.1.2"
+        },
+        {
+            "source": "5.2",
+            "label": "HAS_INDICATOR",
+            "target": "5.2.1"
+        },
+        {
+            "source": "5.4",
+            "label": "HAS_INDICATOR",
+            "target": "5.4.1"
+        },
+        {
+            "source": "5.6",
+            "label": "HAS_INDICATOR",
+            "target": "5.6.2"
+        },
+        {
+            "source": "5.5",
+            "label": "HAS_INDICATOR",
+            "target": "5.5.1"
+        },
+        {
+            "source": "5.3",
+            "label": "HAS_INDICATOR",
+            "target": "5.3.2"
+        },
+        {
+            "source": "5.1",
+            "label": "HAS_INDICATOR",
+            "target": "5.1.1"
+        },
+        {
+            "source": "17.12",
+            "label": "HAS_INDICATOR",
+            "target": "17.12.1"
+        },
+        {
+            "source": "9.5",
+            "label": "HAS_INDICATOR",
+            "target": "9.5.2"
+        },
+        {
+            "source": "11.5",
+            "label": "HAS_INDICATOR",
+            "target": "11.5.1"
+        },
+        {
+            "source": "3.8",
+            "label": "HAS_INDICATOR",
+            "target": "3.8.2"
+        },
+        {
+            "source": "3.9",
+            "label": "HAS_INDICATOR",
+            "target": "3.9.2"
+        },
+        {
+            "source": "8.9",
+            "label": "HAS_INDICATOR",
+            "target": "8.9.1"
+        },
+        {
+            "source": "17.1",
+            "label": "HAS_INDICATOR",
+            "target": "17.10.1"
+        },
+        {
+            "source": "4.4",
+            "label": "HAS_INDICATOR",
+            "target": "4.4.1"
+        },
+        {
+            "source": "9.1",
+            "label": "HAS_INDICATOR",
+            "target": "9.1.2"
+        },
+        {
+            "source": "8.5",
+            "label": "HAS_INDICATOR",
+            "target": "8.5.2"
+        },
+        {
+            "source": "10.1",
+            "label": "HAS_INDICATOR",
+            "target": "10.1.1"
+        },
+        {
+            "source": "17.1",
+            "label": "HAS_INDICATOR",
+            "target": "17.1.1"
+        },
+        {
+            "source": "8.4",
+            "label": "HAS_INDICATOR",
+            "target": "8.4.2"
+        },
+        {
+            "source": "6.5",
+            "label": "HAS_INDICATOR",
+            "target": "6.5.1"
+        },
+        {
+            "source": "16.8",
+            "label": "HAS_INDICATOR",
+            "target": "16.8.1"
+        },
+        {
+            "source": "2.5",
+            "label": "HAS_INDICATOR",
+            "target": "2.5.1"
+        },
+        {
+            "source": "14.4",
+            "label": "HAS_INDICATOR",
+            "target": "14.4.1"
+        },
+        {
+            "source": "17.13",
+            "label": "HAS_INDICATOR",
+            "target": "17.13.1"
+        },
+        {
+            "source": "12.6",
+            "label": "HAS_INDICATOR",
+            "target": "12.6.1"
+        },
+        {
+            "source": "16.1",
+            "label": "HAS_INDICATOR",
+            "target": "16.10.1"
+        },
+        {
+            "source": "12.1",
+            "label": "HAS_INDICATOR",
+            "target": "12.1.1"
+        },
+        {
+            "source": "6.2",
+            "label": "HAS_INDICATOR",
+            "target": "6.2.1"
+        },
+        {
+            "source": "3.6",
+            "label": "HAS_INDICATOR",
+            "target": "3.6.1"
+        },
+        {
+            "source": "11.7",
+            "label": "HAS_INDICATOR",
+            "target": "11.7.1"
+        },
+        {
+            "source": "10.5",
+            "label": "HAS_INDICATOR",
+            "target": "10.5.1"
+        },
+        {
+            "source": "17.18",
+            "label": "HAS_INDICATOR",
+            "target": "17.18.1"
+        },
+        {
+            "source": "10.6",
+            "label": "HAS_INDICATOR",
+            "target": "10.6.1"
+        },
+        {
+            "source": "1.5",
+            "label": "HAS_INDICATOR",
+            "target": "1.5.1"
+        },
+        {
+            "source": "6.3",
+            "label": "HAS_INDICATOR",
+            "target": "6.3.2"
+        },
+        {
+            "source": "17.1",
+            "label": "HAS_INDICATOR",
+            "target": "17.1.2"
+        },
+        {
+            "source": "17.15",
+            "label": "HAS_INDICATOR",
+            "target": "17.15.1"
+        },
+        {
+            "source": "11.6",
+            "label": "HAS_INDICATOR",
+            "target": "11.6.1"
+        },
+        {
+            "source": "15.4",
+            "label": "HAS_INDICATOR",
+            "target": "15.4.1"
+        },
+        {
+            "source": "16.6",
+            "label": "HAS_INDICATOR",
+            "target": "16.6.2"
+        },
+        {
+            "source": "10.2",
+            "label": "HAS_INDICATOR",
+            "target": "10.2.1"
+        },
+        {
+            "source": "16.3",
+            "label": "HAS_INDICATOR",
+            "target": "16.3.3"
+        },
+        {
+            "source": "1.2",
+            "label": "HAS_INDICATOR",
+            "target": "1.2.2"
+        },
+        {
+            "source": "11.5",
+            "label": "HAS_INDICATOR",
+            "target": "11.5.3"
+        },
+        {
+            "source": "12.3",
+            "label": "HAS_INDICATOR",
+            "target": "12.3.1"
+        },
+        {
+            "source": "4.2",
+            "label": "HAS_INDICATOR",
+            "target": "4.2.2"
+        },
+        {
+            "source": "11.5",
+            "label": "HAS_INDICATOR",
+            "target": "11.5.2"
+        },
+        {
+            "source": "2.1",
+            "label": "HAS_INDICATOR",
+            "target": "2.1.2"
+        },
+        {
+            "source": "15.8",
+            "label": "HAS_INDICATOR",
+            "target": "15.8.1"
+        },
+        {
+            "source": "12.2",
+            "label": "HAS_INDICATOR",
+            "target": "12.2.1"
+        },
+        {
+            "source": "17.3",
+            "label": "HAS_INDICATOR",
+            "target": "17.3.1"
+        },
+        {
+            "source": "10.4",
+            "label": "HAS_INDICATOR",
+            "target": "10.4.2"
+        },
+        
+        {"source": "11.2.1", "target": "11.3.1", "label": "IS_RELATED_TO"},
+        {"source": "11.3.1", "target": "11.2.1", "label": "IS_RELATED_TO"},
+        {"source": "11.2.1", "target": "9.1.1", "label": "IS_RELATED_TO"},
+        {"source": "11.3.1", "target": "11.2.1", "label": "IS_RELATED_TO"},
+        {"source": "11.3.1", "target": "11.7.1", "label": "IS_RELATED_TO"},
+        {"source": "11.7.1", "target": "11.2.1", "label": "IS_RELATED_TO"},
+        {"source": "1.5.1", "target": "11.5.1", "label": "IS_RELATED_TO"},
+        {"source": "1.5.1", "target": "13.1.1", "label": "IS_RELATED_TO"},
+        {"source": "11.5.1", "target": "1.5.1", "label": "IS_RELATED_TO"},
+        {"source": "11.5.1", "target": "13.1.1", "label": "IS_RELATED_TO"},
+        {"source": "13.1.1", "target": "1.5.1", "label": "IS_RELATED_TO"},
+        {"source": "13.1.1", "target": "11.5.1", "label": "IS_RELATED_TO"},
+        {"source": "1.5.3", "target": "11.b.1", "label": "IS_RELATED_TO"},
+        {"source": "1.5.3", "target": "13.1.2", "label": "IS_RELATED_TO"},
+        {"source": "11.b.1", "target": "1.5.3", "label": "IS_RELATED_TO"},
+        {"source": "11.b.1", "target": "13.1.2", "label": "IS_RELATED_TO"},
+        {"source": "13.1.2", "target": "1.5.3", "label": "IS_RELATED_TO"},
+        {"source": "13.1.2", "target": "11.b.1", "label": "IS_RELATED_TO"},
+        {"source": "1.5.4", "target": "11.b.2", "label": "IS_RELATED_TO"},
+        {"source": "1.5.4", "target": "13.1.3", "label": "IS_RELATED_TO"},
+        {"source": "11.b.2", "target": "1.5.4", "label": "IS_RELATED_TO"},
+        {"source": "11.b.2", "target": "13.1.3", "label": "IS_RELATED_TO"},
+        {"source": "13.1.3", "target": "1.5.4", "label": "IS_RELATED_TO"},
+        {"source": "13.1.3", "target": "11.b.2", "label": "IS_RELATED_TO"},
+        {"source": "4.7.1", "target": "12.8.1", "label": "IS_RELATED_TO"},
+        {"source": "4.7.1", "target": "13.3.1", "label": "IS_RELATED_TO"},
+        {"source": "12.8.1", "target": "4.7.1", "label": "IS_RELATED_TO"},
+        {"source": "12.8.1", "target": "13.3.1", "label": "IS_RELATED_TO"},
+        {"source": "13.3.1", "target": "4.7.1", "label": "IS_RELATED_TO"},
+        {"source": "13.3.1", "target": "12.8.1", "label": "IS_RELATED_TO"},
+        {"source": "8.4.1", "target": "12.2.1", "label": "IS_RELATED_TO"},
+        {"source": "8.4.2", "target": "12.2.2", "label": "IS_RELATED_TO"},
+        {"source": "10.3.1", "target": "16.b.1", "label": "IS_RELATED_TO"},
+        {"source": "10.6.1", "target": "16.8.1", "label": "IS_RELATED_TO"},
+        {"source": "15.7.1", "target": "15.c.1", "label": "IS_RELATED_TO"},
+        {"source": "15.a.1", "target": "15.b.1", "label": "IS_RELATED_TO"},
+        {"source": "11.2.1", "target": "Population", "label": "HAS_CONCEPT"},
+        {
+            "source": "1.1.1",
+            "target": "Income",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "1.1.1",
+            "target": "PovertyThreshold",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "1.2.1",
+            "target": "PovertyLine",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "1.2.1",
+            "target": "HouseholdIncome",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "1.5.1",
+            "target": "DisasterImpact",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "1.5.1",
+            "target": "Population",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "1.5.3",
+            "target": "RiskReductionStrategy",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "1.5.4",
+            "target": "LocalRiskPlanning",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "2.1.1",
+            "target": "FoodSecurity",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "2.1.1",
+            "target": "Nutrition",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "3.1.1",
+            "target": "MaternalMortality",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "3.1.1",
+            "target": "HealthCareAccess",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "3.2.1",
+            "target": "ChildMortality",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "3.2.1",
+            "target": "Immunization",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "4.1.1",
+            "target": "EducationLevel",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "4.1.1",
+            "target": "BasicLearning",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "4.7.1",
+            "target": "EducationSustainableDevelopment",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "4.7.1",
+            "target": "GlobalCitizenship",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "6.1.1",
+            "target": "WaterAccess",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "6.1.1",
+            "target": "Population",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "6.2.1",
+            "target": "Sanitation",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "6.2.1",
+            "target": "Hygiene",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "7.1.2",
+            "target": "CleanFuels",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "7.1.2",
+            "target": "TechnologyAccess",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "8.5.1",
+            "target": "Employment",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "8.5.1",
+            "target": "GenderEquality",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "8.5.2",
+            "target": "Wages",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "8.5.2",
+            "target": "OccupationalData",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "9.1.1",
+            "target": "Population",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "9.1.1",
+            "target": "StreetNetwork",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "9.2.1",
+            "target": "ManufacturingValueAdded",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "9.2.2",
+            "target": "ManufacturingEmployment",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "10.3.1",
+            "target": "Discrimination",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "10.3.1",
+            "target": "Inclusion",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.1.1",
+            "target": "UrbanHousing",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.1.1",
+            "target": "Slums",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.2.1",
+            "target": "Population",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.2.1",
+            "target": "StreetNetwork",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.2.1",
+            "target": "PublicTransport",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.3.1",
+            "target": "Population",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.3.1",
+            "target": "BuiltUpArea",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.5.1",
+            "target": "DisasterImpact",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.5.1",
+            "target": "UrbanDamage",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.6.1",
+            "target": "UrbanWaste",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.6.1",
+            "target": "MunicipalCollection",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.7.1",
+            "target": "BuiltUpArea",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.7.1",
+            "target": "PublicSpace",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.7.1",
+            "target": "Population",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "11.b.1",
+            "target": "RiskReductionStrategy",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "12.2.1",
+            "target": "MaterialFootprint",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "12.2.1",
+            "target": "NaturalResources",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "13.1.1",
+            "target": "DisasterImpact",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "13.1.1",
+            "target": "ClimateEvents",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "13.1.2",
+            "target": "RiskReductionStrategy",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "13.3.1",
+            "target": "ClimateEducation",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "15.1.1",
+            "target": "ForestArea",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "15.1.1",
+            "target": "LandCover",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "15.7.1",
+            "target": "IllegalWildlifeTrade",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "15.a.1",
+            "target": "BiodiversityFunding",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "15.c.1",
+            "target": "WildlifePoaching",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "16.1.1",
+            "target": "Homicide",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "16.1.3",
+            "target": "ViolenceExperience",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "16.10.1",
+            "target": "JournalistSafety",
+            "label": "HAS_CONCEPT"
+        },
+        {
+            "source": "16.10.1",
+            "target": "FreedomPress",
+            "label": "HAS_CONCEPT"
+        },
+        {"source": "Population", "target": "Space", "label": "HAS_ATTRIBUTE"},
+        {"source": "Population", "target": "Time", "label": "HAS_ATTRIBUTE"},
+        {"source": "Population", "target": "Value", "label": "HAS_ATTRIBUTE"},
+        {"source": "Population", "target": "Age", "label": "HAS_ATTRIBUTE"},
+        {"source": "Population", "target": "Sex", "label": "HAS_ATTRIBUTE"},
+        {"source": "Population", "target": "Disability", "label": "HAS_ATTRIBUTE"},
+        {"source": "StreetNetwork", "target": "Space", "label": "HAS_ATTRIBUTE"},
+        {"source": "StreetNetwork", "target": "Time", "label": "HAS_ATTRIBUTE"},
+        {"source": "StreetNetwork", "target": "Capacity", "label": "HAS_ATTRIBUTE"},
+        {"source": "PublicTransport", "target": "Space", "label": "HAS_ATTRIBUTE"},
+        {"source": "PublicTransport", "target": "Time", "label": "HAS_ATTRIBUTE"},
+        {"source": "PublicTransport", "target": "Capacity", "label": "HAS_ATTRIBUTE"}
+    ]
+}
