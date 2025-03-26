@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="data/logoo.png" alt="SDG-KG Logo" width="200"/>
+</p>
+
 # SDG-KG
 
 **SDG-KG** is a spatio-temporal knowledge graph framework designed to compute Sustainable Development Goals (SDG) indicators from heterogeneous and open data sources. It enables users to import data, map it to SDG concepts, define use cases, and compute development indicators interactively.
