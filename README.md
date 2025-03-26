@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/logoo.png" alt="SDG-KG Logo" width="200"/>
+  <img src="data/logo3.png" alt="SDG-KG Logo" width="200"/>
 </p>
 
 # SDG-KG
