@@ -2,23 +2,15 @@
 
 **SDG-KG** is a spatio-temporal knowledge graph framework designed to compute Sustainable Development Goals (SDG) indicators from heterogeneous and open data sources. It enables users to import data, map it to SDG concepts, define use cases, and compute development indicators interactively.
 
-## 🌍 Features
-
-- Ingest structured or semi-structured data from various sources (CSV, APIs, databases, etc.)
-- Create metadata and semantic graphs aligned with the SDG framework (Goal, Target, Indicator, Concept)
-- Define spatial, temporal, and disaggregation parameters for use cases
-- Automatically generate and execute indicator computation workflows
-- Interactive visualization of the SDG graph and indicator results
-
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - [Streamlit](https://streamlit.io/) for the user interface
-- [rdflib](https://rdflib.readthedocs.io/) for RDF and graph modeling
+- [Neo4j](https://neo4j.com/docs/) for graph modeling
 - [pandas](https://pandas.pydata.org/) for data manipulation
 - [st-link-analysis](https://pypi.org/project/st-link-analysis/) for interactive graph visualization
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -37,3 +29,35 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+### Run the App
+
+```bash
+py -m streamlit run app.py
+```
+
+Then open [http://localhost:8501](http://localhost:8501) in your browser.
+
+## 📂 Project Structure
+
+```
+SDG-KG/
+│
+├── app.py                        
+├── data/                         
+├── scenario/   
+|── core/
+|── scenario                
+├── requirements.txt              
+└── README.md
+```
+
+## 📜 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+## 🙋 Author
+
+Developed by [Wissal Benjira](https://github.com/wissalbenjira)  
+---
